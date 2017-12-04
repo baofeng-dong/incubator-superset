@@ -67,6 +67,7 @@ setup(
         'pydruid==0.3.1',
         'PyHive>=0.4.0',
         'python-dateutil==2.6.0',
+        'psycopg2==2.7.3.2',
         'requests==2.17.3',
         'simplejson==3.10.0',
         'six==1.10.0',
